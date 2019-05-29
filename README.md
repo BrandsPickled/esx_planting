@@ -110,3 +110,5 @@ Example for the last question:
                 correct = 1
             }
 ```
+Credit to Maciej Wojtasik
+@MacieGx
