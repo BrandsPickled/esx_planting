@@ -110,5 +110,4 @@ Example for the last question:
                 correct = 1
             }
 ```
-Credit to Maciej Wojtasik
-@MacieGx
+Credit to Maciej Wojtasik - @MacieGx for developing esx_planting
