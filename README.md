@@ -85,28 +85,28 @@ animations_start = {
 
 ## An example of the Array responsible for the question
 ```
-{
-    title = 'Twoja roślinka jest już prawie gotowa do ścięcia, co robisz?',
-    steps = {
-        {label = 'Podlewam Roślinę', value = 1},
-        {label = 'Nawożę Roslinę', value = 2},
-        {label = 'Czekam', value = 3}
-    },
-    correct = 1
-},
+            {
+                title = 'You see that your plant is sprouting, What should you do?',
+                steps = {
+                    {label = 'Im watering the plant', value = 1},
+                    {label = 'Im fertilizing the plant', value = 2},
+                    {label = 'I am waiting', value = 3}
+                },
+                correct = 1
+            },
 ```
 
 ## Last Question and RNG
 As you may have learned earlier, the last question contains quantitative information on the minimum (max) and minimum (min) amount of the final product that a player can receive.
 Example for the last question:
 ```
-{
-    title = 'Twoja roślinka jest gotowa do zbiorów, co robisz?',
-    steps = {
-        {label = 'Zbierz przy użyciu nożyczek', value = 1, min = 5, max = 25},
-        {label = 'Zbierz rękoma', value = 1, min = 10, max = 15},
-        {label = 'Zetnij sekatorem', value = 1, min = 2, max = 40}
-    },
-    correct = 1
-}
+            {
+                title = 'Your plant is ready for harvest, What should you do?',
+                steps = {
+                    {label = 'Collect using scissors', value = 1, min = 5, max = 25},
+                    {label = 'Collect with your hands', value = 1, min = 10, max = 15},
+                    {label = 'Cut the pruning shears', value = 1, min = 2, max = 40}
+                },
+                correct = 1
+            }
 ```
