@@ -1,4 +1,4 @@
-# esx_planting
+# esx_planting - Supported with English Text
 Modification created by the Oesis Server allowing the production of drugs whose production is based on planting.
 ![Script in Action](https://mwojtasik.pl/img_zarabiam/portfolio/fivem/1.png)
 
